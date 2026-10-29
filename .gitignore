@@ -1,0 +1,25 @@
+.idea/
+.vscode/
+
+# Personal learning material (kept locally)
+/Tutorial/
+/BENCHMARK_GUIDE.md
+/PERFORMANCE_REPORT.md
+/notes/
+/private/
+/AGENTS.md
+
+# Local output and credentials
+/benchmark_results/
+*.log
+*.exe
+*.test
+*.out
+*.prof
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db
